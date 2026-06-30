@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0083/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 唐孫樵集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:37:58.977914'
+  source:
+    repository: kanripo
+    path: KR4c0083/KR4c0083_009.txt
+hash: sha256:9213a75c27776163e3c4a5f3e07185fd51b17ed35e8fcaf3a52e312edb627287

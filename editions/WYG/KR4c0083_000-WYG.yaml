@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4c0083/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部二
+  hash: sha256:12d8190cadcf5eac3a9a3b81ae053c873dee29480bf15c1526bdc2f7417fab40
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0083_WYG_000-1a, image: WYG1083/WYG1083-0063a.png}
+body:
+  text: 孫可之集别集類一唐提要臣等謹案孫可之集十巻唐孫樵撰樵字可之又字隠之自稱闗東人函谷以外幅員遼闊不知其籍何郡縣也大中九年進士授中書舍人僖宗幸岐隴時詔赴行在遷職方郎中上柱國賜紫金魚袋新唐書藝文志通志通考皆載樵經緯集三巻書録解題稱樵自為序凡三十五篇此本十巻為毛晉汲古閣所刋稱王鏊從内閣抄出近時汪師韓集有孫文志疑序一篇因謂樵文惟唐文粹所載後佛寺奏讀開元雜報書襄城驛刻武侯碑隂文貞公笏銘與李諫議行方書與賈秀才書孫氏西齋銘書田將軍邊事書何易于十篇為真餘一十五篇皆後人偽撰然巻帙分合古書多有未可以是定真偽且師韓别無確據但以其句字格局斷之尤不足以為定論也乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀欽定四庫全書孫可之集巻一唐孫樵撰
+  hash: sha256:8e8e7f555c52de3ecffb35ccbe23bfc48acacb6cd551606a3b605b5c943940d9
+metadata:
+  title: 唐孫樵集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:37:58.977914'
+  source:
+    repository: kanripo
+    path: KR4c0083/KR4c0083_000.txt
+hash: sha256:a70227d88683f0ec6e8f1eb2dee4f5e163531d938939bd3f8225faf4dd615bed
