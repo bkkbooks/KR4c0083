@@ -316,6 +316,7 @@ markers:
   - {type: line-break, offset: 789, content: '', id: KR4c0083_SBCK_004-4b06}
   - {type: punctuation, offset: 789, content: (, id: KR4c0083_krp_004-bkkpn1}
   - {type: variant, offset: 789, length: 0, content: '', WYG: 潗嶺北竝磵可為閣道}
+  - {type: voice, offset: 789, length: 22, name: note, id: n1}
   - {type: punctuation, offset: 800, content: /, id: KR4c0083_krp_004-bkkpn2}
   - {type: variant, offset: 800, length: 11, content: 自註潗嶺北並磵可爲閣道, WYG: ''}
   - {type: substitution, offset: 801, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -338,6 +339,7 @@ markers:
   - {type: variant, offset: 832, length: 1, content: 直, SBCK: 􅀡}
   - {type: variant, offset: 835, length: 7, content: 並他放此蒲浪反, WYG: 竝}
   - {type: punctuation, offset: 836, content: (, id: KR4c0083_krp_004-bkkpn5}
+  - {type: voice, offset: 836, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 839, content: /, id: KR4c0083_krp_004-bkkpn6}
   - {type: punctuation, offset: 842, content: ), id: KR4c0083_krp_004-bkkpn7}
   - {type: substitution, offset: 846, original: 虵, replacement: 蛇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17300}}
@@ -347,6 +349,7 @@ markers:
   - {type: line-break, offset: 850, content: '', id: KR4c0083_SBCK_004-5a02}
   - {type: punctuation, offset: 856, content: (, id: KR4c0083_krp_004-bkkpn8}
   - {type: variant, offset: 856, length: 0, content: '', WYG: 秋夏}
+  - {type: voice, offset: 856, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 860, content: /, id: KR4c0083_krp_004-bkkpn9}
   - {type: variant, offset: 860, length: 4, content: 自註秋夏, WYG: ''}
   - {type: substitution, offset: 861, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -364,6 +367,7 @@ markers:
   - {type: page-break, offset: 889, content: '', id: KR4c0083_WYG_004-3b, image: WYG1083/WYG1083-0076b.png}
   - {type: punctuation, offset: 892, content: (, id: KR4c0083_krp_004-bkkpn12}
   - {type: variant, offset: 892, length: 0, content: '', WYG: 秋夏}
+  - {type: voice, offset: 892, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 896, content: /, id: KR4c0083_krp_004-bkkpn13}
   - {type: variant, offset: 896, length: 4, content: 自註秋夏, WYG: ''}
   - {type: substitution, offset: 897, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -407,6 +411,7 @@ markers:
   - {type: line-break, offset: 1000, content: '', id: KR4c0083_SBCK_004-5b04}
   - {type: punctuation, offset: 1010, content: (, id: KR4c0083_krp_004-bkkpn16}
   - {type: variant, offset: 1010, length: 0, content: '', WYG: 行者多}
+  - {type: voice, offset: 1010, length: 15, name: note, id: n5}
   - {type: variant, offset: 1014, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 1014, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1016, content: /, id: KR4c0083_krp_004-bkkpn17}
@@ -459,6 +464,7 @@ markers:
   - {type: line-break, offset: 1119, content: '', id: KR4c0083_SBCK_004-6a04}
   - {type: punctuation, offset: 1122, content: (, id: KR4c0083_krp_004-bkkpn23}
   - {type: variant, offset: 1122, length: 0, content: '', WYG: 嶺東度澗可詣為閣路}
+  - {type: voice, offset: 1122, length: 22, name: note, id: n6}
   - {type: punctuation, offset: 1133, content: /, id: KR4c0083_krp_004-bkkpn24}
   - {type: variant, offset: 1133, length: 11, content: 自註嶺東度澗可詣爲閣路, WYG: ''}
   - {type: substitution, offset: 1134, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -530,6 +536,7 @@ markers:
   - {type: punctuation, offset: 1298, content: (, id: KR4c0083_krp_004-bkkpn27}
   - {type: variant, offset: 1298, length: 1, content: 爲, WYG: 人多以淮為}
   - {type: substitution, offset: 1298, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: voice, offset: 1298, length: 11, name: note, id: n7}
   - {type: substitution, offset: 1299, original: 准, replacement: 準, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17193}}
   - {type: variant, offset: 1300, length: 0, content: '', WYG: 字}
   - {type: substitution, offset: 1300, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
@@ -625,6 +632,7 @@ markers:
       ', id: KR4c0083_krp_004-bkkkrnewl112}
   - {type: line-break, offset: 1534, content: '', id: KR4c0083_SBCK_004-8a01}
   - {type: punctuation, offset: 1534, content: (, id: KR4c0083_krp_004-bkkpn31}
+  - {type: voice, offset: 1534, length: 6, name: note, id: n8}
   - {type: punctuation, offset: 1537, content: /, id: KR4c0083_krp_004-bkkpn32}
   - {type: variant, offset: 1537, length: 3, content: 自註古, WYG: ''}
   - {type: substitution, offset: 1538, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -658,6 +666,7 @@ markers:
   - {type: line-break, offset: 1616, content: '', id: KR4c0083_SBCK_004-8a06}
   - {type: punctuation, offset: 1630, content: (, id: KR4c0083_krp_004-bkkpn35}
   - {type: variant, offset: 1630, length: 0, content: '', WYG: 一本}
+  - {type: voice, offset: 1630, length: 6, name: note, id: n9}
   - {type: punctuation, offset: 1632, content: /, id: KR4c0083_krp_004-bkkpn36}
   - {type: variant, offset: 1632, length: 2, content: 一本, WYG: 五}
   - {type: punctuation, offset: 1634, content: ), id: KR4c0083_krp_004-bkkpn37}
@@ -763,6 +772,7 @@ markers:
   - {type: punctuation, offset: 1878, content: (, id: KR4c0083_krp_004-bkkpn41}
   - {type: variant, offset: 1878, length: 0, content: '', WYG: 自福溪有路竝自山下由}
   - {type: page-break, offset: 1878, content: '', id: KR4c0083_WYG_004-6a, image: WYG1083/WYG1083-0077c.png}
+  - {type: voice, offset: 1878, length: 60, name: note, id: n10}
   - {type: punctuation, offset: 1891, content: /, id: KR4c0083_krp_004-bkkpn42}
   - {type: variant, offset: 1891, length: 6, content: 自註自福溪有, WYG: 山輝大}
   - {type: substitution, offset: 1892, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -805,6 +815,7 @@ markers:
   - {type: variant, offset: 1990, length: 1, content: 雙, SBCK: 􅀟}
   - {type: punctuation, offset: 1993, content: (, id: KR4c0083_krp_004-bkkpn51}
   - {type: variant, offset: 1993, length: 9, content: 西有路並澗出白自註, WYG: ''}
+  - {type: voice, offset: 1993, length: 57, name: note, id: n11}
   - {type: punctuation, offset: 2000, content: /, id: KR4c0083_krp_004-bkkpn52}
   - {type: substitution, offset: 2001, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 2002, content: /, id: KR4c0083_krp_004-bkkpn53}
@@ -865,6 +876,7 @@ markers:
   - {type: punctuation, offset: 2155, content: (, id: KR4c0083_krp_004-bkkpn61}
   - {type: variant, offset: 2155, length: 2, content: 註自, WYG: 議者多以謂此路不及褒斜此言不公}
   - {type: substitution, offset: 2155, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
+  - {type: voice, offset: 2155, length: 72, name: note, id: n12}
   - {type: punctuation, offset: 2156, content: /, id: KR4c0083_krp_004-bkkpn62}
   - {type: punctuation, offset: 2157, content: ), id: KR4c0083_krp_004-bkkpn63}
   - {type: 'kr:newline', offset: 2157, content: '
@@ -1012,4 +1024,4 @@ markers:
 
       ', id: KR4c0083_krp_004-bkkkrnewl174}
   back: []
-hash: sha256:ca2340d6a9018654842ec0d8e9fcb6a7be2988fd150b5dded23618e8965cd319
+hash: sha256:a3537a36eb8bade59d0b95aa80afc513bf8a8e0bc053b5731cdc6c8605947c80

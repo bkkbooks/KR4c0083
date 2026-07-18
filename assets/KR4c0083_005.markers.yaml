@@ -43,6 +43,7 @@ markers:
   - {type: punctuation, offset: 37, content: (, id: KR4c0083_krp_005-bkkpn1}
   - {type: variant, offset: 37, length: 1, content: 絜, WYG: ''}
   - {type: substitution, offset: 37, original: 絜, replacement: 潔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17011}}
+  - {type: voice, offset: 37, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 38, content: /, id: KR4c0083_krp_005-bkkpn2}
   - {type: punctuation, offset: 40, content: ), id: KR4c0083_krp_005-bkkpn3}
   - {type: variant, offset: 40, length: 0, content: '', WYG: 絜}
@@ -87,6 +88,7 @@ markers:
       ', id: KR4c0083_krp_005-bkkkrnewl13}
   - {type: line-break, offset: 132, content: '', id: KR4c0083_SBCK_005-1b06}
   - {type: punctuation, offset: 146, content: (, id: KR4c0083_krp_005-bkkpn4}
+  - {type: voice, offset: 146, length: 38, name: note, id: n2}
   - {type: punctuation, offset: 147, content: /, id: KR4c0083_krp_005-bkkpn5}
   - {type: variant, offset: 147, length: 2, content: 自註, WYG: 宗有大功宜嗣有天下髙祖不當立建成}
   - {type: substitution, offset: 148, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -121,6 +123,7 @@ markers:
   - {type: line-break, offset: 198, content: '', id: KR4c0083_SBCK_005-2a02}
   - {type: punctuation, offset: 201, content: (, id: KR4c0083_krp_005-bkkpn13}
   - {type: variant, offset: 201, length: 15, content: 不奪高宗不敢立􅐥氏爲后故書自註, WYG: ''}
+  - {type: voice, offset: 201, length: 32, name: note, id: n3}
   - {type: substitution, offset: 210, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 214, content: /, id: KR4c0083_krp_005-bkkpn14}
   - {type: substitution, offset: 215, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -155,6 +158,7 @@ markers:
   - {type: line-break, offset: 261, content: '', id: KR4c0083_SBCK_005-2a05}
   - {type: punctuation, offset: 263, content: (, id: KR4c0083_krp_005-bkkpn20}
   - {type: variant, offset: 263, length: 0, content: '', WYG: 髙宗廢王后立武后乃貞觀}
+  - {type: voice, offset: 263, length: 37, name: note, id: n4}
   - {type: variant, offset: 276, length: 4, content: 高自註高, WYG: 髙}
   - {type: punctuation, offset: 277, content: /, id: KR4c0083_krp_005-bkkpn21}
   - {type: substitution, offset: 278, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -187,6 +191,7 @@ markers:
   - {type: page-break, offset: 328, content: '', id: KR4c0083_WYG_005-2a, image: WYG1083/WYG1083-0079a.png}
   - {type: punctuation, offset: 330, content: (, id: KR4c0083_krp_005-bkkpn27}
   - {type: variant, offset: 330, length: 0, content: '', WYG: 天后改元即真今悉以天}
+  - {type: voice, offset: 330, length: 32, name: note, id: n5}
   - {type: punctuation, offset: 343, content: /, id: KR4c0083_krp_005-bkkpn28}
   - {type: variant, offset: 343, length: 5, content: 自註天后攺, WYG: 不得改}
   - {type: substitution, offset: 344, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -205,6 +210,7 @@ markers:
   - {type: punctuation, offset: 362, content: ), id: KR4c0083_krp_005-bkkpn33}
   - {type: punctuation, offset: 371, content: (, id: KR4c0083_krp_005-bkkpn34}
   - {type: variant, offset: 371, length: 0, content: '', WYG: 名}
+  - {type: voice, offset: 371, length: 8, name: note, id: n6}
   - {type: variant, offset: 372, length: 1, content: 􅐥, WYG: 武}
   - {type: punctuation, offset: 375, content: /, id: KR4c0083_krp_005-bkkpn35}
   - {type: variant, offset: 375, length: 3, content: 自註名, WYG: ''}
@@ -221,6 +227,7 @@ markers:
   - {type: substitution, offset: 382, original: 䛕, replacement: 諛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20226}}
   - {type: punctuation, offset: 389, content: (, id: KR4c0083_krp_005-bkkpn40}
   - {type: variant, offset: 389, length: 0, content: '', WYG: 裴為}
+  - {type: voice, offset: 389, length: 56, name: note, id: n7}
   - {type: punctuation, offset: 394, content: /, id: KR4c0083_krp_005-bkkpn41}
   - {type: variant, offset: 394, length: 2, content: 自註, WYG: 白天后歸政御史崔察廷詰}
   - {type: substitution, offset: 395, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -254,6 +261,7 @@ markers:
   - {type: line-break, offset: 453, content: '', id: KR4c0083_SBCK_005-2b06}
   - {type: punctuation, offset: 463, content: (, id: KR4c0083_krp_005-bkkpn50}
   - {type: variant, offset: 463, length: 0, content: '', WYG: 祿山乃}
+  - {type: voice, offset: 463, length: 44, name: note, id: n8}
   - {type: substitution, offset: 465, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: substitution, offset: 467, original: 将, replacement: 將, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16985}}
   - {type: punctuation, offset: 469, content: /, id: KR4c0083_krp_005-bkkpn51}
@@ -313,6 +321,7 @@ markers:
   - {type: punctuation, offset: 601, content: (, id: KR4c0083_krp_005-bkkpn59}
   - {type: variant, offset: 601, length: 2, content: 註自, WYG: 則前所謂起王后配天皇條天}
   - {type: substitution, offset: 601, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
+  - {type: voice, offset: 601, length: 27, name: note, id: n9}
   - {type: punctuation, offset: 602, content: /, id: KR4c0083_krp_005-bkkpn60}
   - {type: punctuation, offset: 603, content: ), id: KR4c0083_krp_005-bkkpn61}
   - {type: 'kr:newline', offset: 603, content: '
@@ -334,6 +343,7 @@ markers:
   - {type: line-break, offset: 631, content: '', id: KR4c0083_SBCK_005-3b01}
   - {type: punctuation, offset: 636, content: (, id: KR4c0083_krp_005-bkkpn65}
   - {type: variant, offset: 636, length: 0, content: '', WYG: 前所謂李勣立皇后}
+  - {type: voice, offset: 636, length: 23, name: note, id: n10}
   - {type: substitution, offset: 640, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: substitution, offset: 642, original: 禄, replacement: 祿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20754}}
   - {type: punctuation, offset: 647, content: /, id: KR4c0083_krp_005-bkkpn66}
@@ -657,6 +667,7 @@ markers:
   - {type: line-break, offset: 1357, content: '', id: KR4c0083_SBCK_005-6b06}
   - {type: variant, offset: 1357, length: 1, content: 杪, WYG: ''}
   - {type: punctuation, offset: 1358, content: (, id: KR4c0083_krp_005-bkkpn72}
+  - {type: voice, offset: 1358, length: 3, name: note, id: n11}
   - {type: punctuation, offset: 1359, content: /, id: KR4c0083_krp_005-bkkpn73}
   - {type: variant, offset: 1359, length: 2, content: 一作, WYG: ''}
   - {type: punctuation, offset: 1361, content: ), id: KR4c0083_krp_005-bkkpn74}
@@ -683,6 +694,7 @@ markers:
   - {type: substitution, offset: 1410, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 1412, content: (, id: KR4c0083_krp_005-bkkpn75}
   - {type: variant, offset: 1412, length: 0, content: '', WYG: 人傳晉永嘉中有}
+  - {type: voice, offset: 1412, length: 38, name: note, id: n12}
   - {type: substitution, offset: 1413, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 1422, content: /, id: KR4c0083_krp_005-bkkpn76}
   - {type: variant, offset: 1422, length: 18, content: 自註人傳晉永嘉中有臺下有碑誌存焉者也, WYG: ''}
@@ -796,4 +808,4 @@ markers:
 
       ', id: KR4c0083_krp_005-bkkkrnewl118}
   back: []
-hash: sha256:603e3146648bbc6e43e27b19a0bfd49e7c3140251d8139afdd022e1c4b10333f
+hash: sha256:8e0863de7279da76e2ca7ad6920f9ba7996b16c0bab838f1ddb16eeabec28f15

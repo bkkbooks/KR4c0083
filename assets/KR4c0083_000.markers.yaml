@@ -412,6 +412,7 @@ markers:
   - {type: variant, offset: 201, length: 453, content: 集目錄終鐫唐孫樵經緯集記竣劉復愚賸簡之梓流布識者愈慨千年文塚幾以夷于陵谷劉生自誌丘墓洵廼埋憂地下者矣馡嘗謂吾黨中處人代寔爲前古後今闗係見有佳篇幽墨若不爲之表章聽其湮没是大残忍人不爲無罪於天地故友生結聚最喜偵訪所知文家幾輩所貯文藁幾種務爲發隱闡幽借鈔廣播力及卽爲鐫行使當世有不掩之文後先燈續曾與同心發弘誓願行此功德于秇林永不退諉然每遇人不免捧岀相示廼有攘爲帳秘者遭其活埋不勝痛恨比之殺諸慧命辠業馡亦自箴犯不善䕶持之戒甲子長夏偕羣季侍家大人于南磵樓居深柳覆牕塔光照席茶香淸供家樂甚洽大人懲馡愛惜人才不得其道反招罪咎命幡家笥重以牙籖題識載行譏察忽及大人手訂諸編有經緯集爲孫可之自定著作在唐與劉復愚名埒欲以並行又得王文恪吴下舊本林茂之閩本參攷文苑等籍釐正相沿之謬鄢中鄭見羲先生聞之請同較閱遂爲中和以來復存可之靣目隨助剞劂之金從臾速成廼直以唐孫樵題集者存古遺意使姓名彰彰不磨而晚近易于通曉願見是集者發廣大心立拔猜忌私吝孽根毋使古魂㘅恨九京縑緗夜泣耳因作緣起于前以爲勸請歲天啓乙丑蓮花生日吴馡于字祖堂滌研濡豪正冠稽首製, WYG: 撰}
   - {type: substitution, offset: 203, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 204, content: (, id: KR4c0083_krp_000-bkkpn1}
+  - {type: voice, offset: 204, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 205, content: ), id: KR4c0083_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 205, content: '
 
@@ -634,4 +635,4 @@ markers:
 
       ', id: KR4c0083_krp_000-bkkkrnewl100}
   back: []
-hash: sha256:a11304b47ca9d09970d7bdd3b41901cbea32bae11037d16c9f0e44e3c87f01a3
+hash: sha256:f9e0a8aaadf16351d24b337635953fa6ced7e8760a8e9e0b60e601eb62b2f317

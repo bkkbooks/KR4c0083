@@ -30,6 +30,7 @@ markers:
   - {type: variant, offset: 12, length: 1, content: 歷, WYG: 厯}
   - {type: punctuation, offset: 21, content: (, id: KR4c0083_krp_006-bkkpn1}
   - {type: variant, offset: 21, length: 0, content: '', WYG: 以}
+  - {type: voice, offset: 21, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 24, content: /, id: KR4c0083_krp_006-bkkpn2}
   - {type: variant, offset: 24, length: 3, content: 自註以, WYG: ''}
   - {type: substitution, offset: 25, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -107,6 +108,7 @@ markers:
   - {type: line-break, offset: 204, content: '', id: KR4c0083_SBCK_006-2a03}
   - {type: punctuation, offset: 212, content: (, id: KR4c0083_krp_006-bkkpn5}
   - {type: variant, offset: 212, length: 0, content: '', WYG: 春行秋令}
+  - {type: voice, offset: 212, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 218, content: /, id: KR4c0083_krp_006-bkkpn6}
   - {type: variant, offset: 218, length: 6, content: 自注春行秋令, WYG: ''}
   - {type: punctuation, offset: 220, content: /, id: KR4c0083_krp_006-bkkpn7}
@@ -118,6 +120,7 @@ markers:
   - {type: variant, offset: 225, length: 1, content: 氷, WYG: 冰}
   - {type: punctuation, offset: 228, content: (, id: KR4c0083_krp_006-bkkpn9}
   - {type: variant, offset: 228, length: 0, content: '', WYG: 冬行}
+  - {type: voice, offset: 228, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 233, content: /, id: KR4c0083_krp_006-bkkpn10}
   - {type: variant, offset: 233, length: 4, content: 自註冬行, WYG: ''}
   - {type: substitution, offset: 234, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -126,6 +129,7 @@ markers:
   - {type: variant, offset: 239, length: 1, content: 螟, SBCK: 􅑺}
   - {type: variant, offset: 240, length: 1, content: 嚙, WYG: 齧夏}
   - {type: punctuation, offset: 241, content: (, id: KR4c0083_krp_006-bkkpn13}
+  - {type: voice, offset: 241, length: 15, name: note, id: n4}
   - {type: punctuation, offset: 245, content: /, id: KR4c0083_krp_006-bkkpn14}
   - {type: variant, offset: 245, length: 7, content: 自註夏螎飛蔽天, WYG: ''}
   - {type: substitution, offset: 246, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -142,6 +146,7 @@ markers:
   - {type: variant, offset: 256, length: 0, content: '', WYG: 蝗飛蔽天}
   - {type: punctuation, offset: 260, content: (, id: KR4c0083_krp_006-bkkpn20}
   - {type: variant, offset: 260, length: 0, content: '', WYG: 秋行夏令則}
+  - {type: voice, offset: 260, length: 15, name: note, id: n5}
   - {type: punctuation, offset: 268, content: /, id: KR4c0083_krp_006-bkkpn21}
   - {type: variant, offset: 268, length: 7, content: 自註秋行夏令則, WYG: ''}
   - {type: substitution, offset: 269, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -258,6 +263,7 @@ markers:
   - {type: line-break, offset: 510, content: '', id: KR4c0083_SBCK_006-3b01}
   - {type: punctuation, offset: 516, content: (, id: KR4c0083_krp_006-bkkpn24}
   - {type: variant, offset: 516, length: 0, content: '', WYG: 謂}
+  - {type: voice, offset: 516, length: 6, name: note, id: n6}
   - {type: variant, offset: 517, length: 1, content: 戸, WYG: 戶}
   - {type: substitution, offset: 517, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: punctuation, offset: 519, content: /, id: KR4c0083_krp_006-bkkpn25}
@@ -275,6 +281,7 @@ markers:
   - {type: line-break, offset: 544, content: '', id: KR4c0083_SBCK_006-3b03}
   - {type: punctuation, offset: 558, content: (, id: KR4c0083_krp_006-bkkpn28}
   - {type: variant, offset: 558, length: 3, content: 錦一作, WYG: ''}
+  - {type: voice, offset: 558, length: 3, name: note, id: n7}
   - {type: punctuation, offset: 559, content: /, id: KR4c0083_krp_006-bkkpn29}
   - {type: punctuation, offset: 561, content: ), id: KR4c0083_krp_006-bkkpn30}
   - {type: 'kr:newline', offset: 561, content: '
@@ -316,6 +323,7 @@ markers:
   - {type: substitution, offset: 645, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: variant, offset: 650, length: 1, content: 管, WYG: ''}
   - {type: punctuation, offset: 651, content: (, id: KR4c0083_krp_006-bkkpn31}
+  - {type: voice, offset: 651, length: 3, name: note, id: n8}
   - {type: punctuation, offset: 652, content: /, id: KR4c0083_krp_006-bkkpn32}
   - {type: variant, offset: 652, length: 2, content: 一作, WYG: ''}
   - {type: punctuation, offset: 654, content: ), id: KR4c0083_krp_006-bkkpn33}
@@ -382,6 +390,7 @@ markers:
   - {type: substitution, offset: 820, original: 戸, replacement: 戶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20775}}
   - {type: punctuation, offset: 823, content: (, id: KR4c0083_krp_006-bkkpn34}
   - {type: variant, offset: 823, length: 0, content: '', WYG: 索若干戸}
+  - {type: voice, offset: 823, length: 12, name: note, id: n9}
   - {type: punctuation, offset: 829, content: /, id: KR4c0083_krp_006-bkkpn35}
   - {type: variant, offset: 829, length: 6, content: 自註索若干戸, WYG: ''}
   - {type: substitution, offset: 830, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
@@ -558,4 +567,4 @@ markers:
 
       ', id: KR4c0083_krp_006-bkkkrnewl94}
   back: []
-hash: sha256:930f39414ce03ee8e5d32dad7a170e230131cf64730fdd2d3ea6d2f0743be066
+hash: sha256:92e53cc6a53095f0a24e8ad138397653530af1862501760a49519e7802f89d61
